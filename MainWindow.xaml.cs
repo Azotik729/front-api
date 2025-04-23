@@ -35,7 +35,7 @@ namespace LykovFront
             const string baseUrl = "http://localhost:5292/api";
             HttpClient apiClient = new HttpClient();
             var user = new AuthorizationeRequest { Login = loginTextBox.Text, Password = passwordTextbox.Text };
-            var json = JsonSerializer.Serialize(user);
+            var json = System.Text.Json.JsonSerializer.Serialize(user);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
             var request = new HttpRequestMessage(HttpMethod.Get, $"{baseUrl}/User/authorize")
             {

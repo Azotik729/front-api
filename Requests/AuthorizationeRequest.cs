@@ -8,8 +8,8 @@ namespace LykovFront
 {
     public class AuthorizationeRequest
     {
-        public string Login { get; set; } = null!;
+        public string Login { get; set; } = null;
 
-        public string? Password { get; set; }
+        public string Password { get; set; }
     }
 }

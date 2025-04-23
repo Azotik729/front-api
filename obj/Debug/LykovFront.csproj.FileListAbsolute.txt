@@ -15,3 +15,13 @@ C:\Лыков М В\LykovFront\obj\Debug\LykovFront.csproj.GenerateResource.cach
 C:\Лыков М В\LykovFront\obj\Debug\LykovFront.csproj.CoreCompileInputs.cache
 C:\Лыков М В\LykovFront\obj\Debug\LykovFront.exe
 C:\Лыков М В\LykovFront\obj\Debug\LykovFront.pdb
+D:\программы не трогать\front-api\obj\Debug\LykovFront.csproj.AssemblyReference.cache
+D:\программы не трогать\front-api\obj\Debug\MainWindow.g.cs
+D:\программы не трогать\front-api\obj\Debug\window\Worker.g.cs
+D:\программы не трогать\front-api\obj\Debug\window\Card.g.cs
+D:\программы не трогать\front-api\obj\Debug\window\reader.g.cs
+D:\программы не трогать\front-api\obj\Debug\App.g.cs
+D:\программы не трогать\front-api\obj\Debug\LykovFront_MarkupCompile.cache
+D:\программы не трогать\front-api\obj\Debug\LykovFront_MarkupCompile.lref
+D:\программы не трогать\front-api\obj\Debug\LykovFront.exe
+D:\программы не трогать\front-api\obj\Debug\LykovFront.pdb

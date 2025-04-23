@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Лыков М В\LykovFront\obj\Debug\
+D:\программы не трогать\front-api\obj\Debug\
 LykovFront
 none
 false
 DEBUG;TRACE
-C:\Лыков М В\LykovFront\App.xaml
-2-1669978520
+D:\программы не трогать\front-api\App.xaml
+7-1488858751
 
-8-236370269
-25-1015138694
-MainWindow.xaml;window\reader.xaml;
+13777334710
+25572143293
+MainWindow.xaml;window\AddBook.xaml;window\SrearcBook.xaml;window\UpdateBook.xaml;window\Worker.xaml;window\Card.xaml;window\reader.xaml;
 
 True
 
