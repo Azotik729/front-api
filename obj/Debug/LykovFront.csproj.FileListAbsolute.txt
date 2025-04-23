@@ -1,0 +1,17 @@
+C:\Лыков М В\LykovFront\bin\Debug\LykovFront.exe.config
+C:\Лыков М В\LykovFront\bin\Debug\LykovFront.exe
+C:\Лыков М В\LykovFront\bin\Debug\LykovFront.pdb
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.csproj.AssemblyReference.cache
+C:\Лыков М В\LykovFront\obj\Debug\MainWindow.g.cs
+C:\Лыков М В\LykovFront\obj\Debug\window\reader.g.cs
+C:\Лыков М В\LykovFront\obj\Debug\App.g.cs
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront_MarkupCompile.cache
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront_MarkupCompile.lref
+C:\Лыков М В\LykovFront\obj\Debug\MainWindow.baml
+C:\Лыков М В\LykovFront\obj\Debug\window\reader.baml
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.g.resources
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.Properties.Resources.resources
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.csproj.GenerateResource.cache
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.csproj.CoreCompileInputs.cache
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.exe
+C:\Лыков М В\LykovFront\obj\Debug\LykovFront.pdb
